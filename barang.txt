@@ -1,0 +1,5 @@
+Laptop Asus,1.25E7,5
+Mouse Wireless,150000.0,20
+Kemeja Flanel,199000.0,15
+Kopi Susu Botol,15000.0,50
+Keyboard Berlampu,450000.0,8
